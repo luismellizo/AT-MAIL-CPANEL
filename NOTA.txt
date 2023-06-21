@@ -1,0 +1,3 @@
+pip install reportlab
+pip install pandas
+pip install smtplib
